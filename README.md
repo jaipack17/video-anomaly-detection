@@ -1,6 +1,8 @@
 # Video Anomaly Detection
 Video Anomaly Detection Model Trained During Pixel Play '26. The model architecture is a reproduction of the paper Y. Zhao, B. Deng, C. Shen, Y. Liu, H. Lu and X.-S. Hua, “Spatio-Temporal AutoEncoder for Video Anomaly Detection,” in Proceedings of the 25th ACM International Conference on Multimedia (MM ’17), Mountain View, CA, USA, Oct. 2017, pp. 1933–1941, doi: 10.1145/3123266.3123451. 
 
+A detailed written report is available: [`Report.pdf`](https://github.com/jaipack17/video-anomaly-detection/blob/4b74fe7740c339e848d50a0a06401aa0128b2760/Report%20-%20Omitted.pdf)
+
 Man Running (Video 03)             |  Boy Cavorting (Video 07) | Man Throwing a Bag (Video 05)
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Video03](https://github.com/user-attachments/assets/71b31a13-e9b4-4c3b-a4d6-8ae774850206) |  ![Video07](https://github.com/user-attachments/assets/687b6fb4-6dac-454b-a1bd-b6f4c1e7d34e) | ![Video05](https://github.com/user-attachments/assets/c447c8a9-c4d2-4fae-8b97-550674e75b22)
