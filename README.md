@@ -25,6 +25,9 @@ Man Running (Video 03)             |  Boy Cavorting (Video 07) | Man Throwing a 
 
 `model_final_checkpoint.pth` contains the model's parameters for Epoch 40 of training. Saved during cuda runtime.
 
+### Older Models
+`object_centric_vad.ipynb` consists of a sequential implementation of the object-centric autoencoders and binary classifiers. This approach was based on the paper R. T. Ionescu, F. Shahbaz Khan, M.-I. Georgescu, and L. Shao, “Object-centric Auto-encoders and Dummy Anomalies for Abnormal Event Detection in Video,” arXiv, Dec. 11, 2018. [Online]. Available: https://arxiv.org/abs/1812.04960
+
 ## Inference Results 
 
 All video clips, graphs and images for visualization have been generated through code. 
