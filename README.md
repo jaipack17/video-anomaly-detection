@@ -15,6 +15,7 @@ Man Running (Video 03)             |  Boy Cavorting (Video 07) | Man Throwing a 
 - Model architecture
 - Training loop
 - Inference pipeline
+    - Preprocessing testing dataset (for flipped images)
     - Generating `submission.csv` containing anomaly scores for each video
     - Applying median filter to smoothen out anomaly scores
     - Visualizing anomaly score graphs with matplotlib
